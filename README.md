@@ -1,10 +1,10 @@
-Netflix Content Strategy Analysis (EDA) 
+**Netflix Content Strategy Analysis (EDA)**
 
 What's This Project About?
 
 Ever wondered what makes Netflix tick? This project dives deep into a massive Netflix dataset to uncover the strategies behind their content library. Using the power of Python (specifically Pandas, Seaborn, and Matplotlib), we aren't just looking at rows and columns—we're telling the story of how streaming has evolved, what genres dominate our screens, and which countries are producing the next big hits.
 
-The Data
+**The Data**
 
 We are working with the netflix1.csv dataset, which is essentially a snapshot of Netflix's library.
 
@@ -12,7 +12,7 @@ What's Inside: It contains details like the type of content (Movie or TV Show), 
 
 Cleaning Up: Before analyzing, we did some housekeeping. We removed unnecessary columns (like 'director'), cleaned up missing data, and converted dates into a format that lets us track trends over time.
 
-The Toolkit
+**The Toolkit**
 
 To make sense of this data, we used a classic Python data science stack:
 
@@ -22,7 +22,7 @@ Matplotlib & Seaborn: To turn boring numbers into beautiful, insightful charts.
 
 Numpy: For the heavy mathematical lifting.
 
-The Story the Data Tells
+**The Story the Data Tells**
 
 Here are the key questions we answered with our visualizations:
 
@@ -48,7 +48,7 @@ Ratings: We looked at the distribution of content ratings (like TV-MA vs. PG-13)
 
 The Nostalgia Factor: We compared the release year of a title vs. the year it was added to Netflix. This interesting scatter plot shows us how much "classic" content is being added versus brand-new releases.
 
-📷 Preview
+**📷 Preview**
 
 
 
